@@ -1,4 +1,4 @@
-# antreprenourship
+# concurs
 Tomcat Web Application 
 This is a Web Application made by me where i used java hibernate apache tomcat and more
 Disclaimer: Some of the front end code is not made by me ( i am not into front end) 
