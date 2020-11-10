@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Realm className="org.apache.catalina.realm.JDBCRealm"
+           connectionName="root"
+           connectionPassword="root"
+           connectionURL="jdbc:mysql://127.0.0.1:3306/concurs"
+           driverName="com.mysql.jdbc.Driver"
+           roleNameCol="role"
+           userCredCol="password"
+           userNameCol="username"
+           userRoleTable="roles"
+           userTable="users"/>
+
+</Context>
